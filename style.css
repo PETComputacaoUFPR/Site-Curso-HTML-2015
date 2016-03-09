@@ -1,0 +1,154 @@
+html, body{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-size: 24px;
+	font-family: Quicksand;
+	background-color: #e5e2d3;
+}
+
+header{
+	padding-top: 7%;
+	min-height: 100%;
+	text-align: center;
+	position: relative;
+}
+
+footer{
+	text-align: center;
+	background: #E8634E;
+	color: #FFF;
+	padding: 3%;
+}
+
+.foto-header{
+	width: 530px;
+	height: 530px;
+	border-radius: 530px;
+	position: absolute;;
+	left: 30%;
+	background-image: url(https://lovenekoatsume.files.wordpress.com/2015/12/img_1054-1.jpeg);
+	background-size: cover;
+}
+
+.fundo-titulo{
+	position: absolute;
+	left: 35%;
+	top: -50px;
+	width: 156px;
+	height: 130px;
+}
+
+.titulo{
+	color: #FFF;
+	text-transform: uppercase;
+	position: absolute;
+	float: inherit;
+	left: 40%;
+	top: -40px;
+}
+
+
+.descricao	{
+	position: relative;
+	top: 40%;
+	font-size: 2em;
+	letter-spacing: 10px;
+	color: #FFF;
+	text-shadow: 0 0 7px #e8634e;
+}
+
+.sobre{
+	color: #E8634E;
+
+}
+
+.linha-fundo-sobre{
+	width: 100%;
+	text-align: center;
+	border-bottom: 3px solid #C6C4AD;
+	line-height: 0.1em;
+	margin: 5px 0 20px;
+}
+
+.linha-fundo-sobre span {
+    background:#e5e2d3;
+    padding:0 10px;
+}
+
+.linha-fundo-footer{
+	width: 100%;
+	text-align: center;
+	border-bottom: 3px solid #FFF;
+	line-height: 0.1em;
+	margin: 5px 0 20px;
+}
+
+.linha-fundo-footer span {
+    background:#E7624D;
+    padding:0 10px;
+}
+
+hr{
+	border: 0;
+	height: 3px;
+	width: 45px;
+	background: #E7624D;
+}
+
+.sobre-mim {
+	text-align: center;
+	font-size: 18px;
+	margin-left: 17%;
+	width: 200px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.oq-ja-fiz {
+	text-align: center;
+	font-size: 18px;
+	margin-top: -324px;
+	margin-left: 42%;
+	width: 200px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+.oq-faco {
+	text-align: center;
+	font-size: 18px;
+	margin-top: -324px;
+	margin-left: 66%;
+	width: 200px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+
+
+.meio-form{
+	margin-right: 180px;
+	margin-bottom: -113px;
+}
+
+.meio-form input{
+	width: 200px;
+	margin-top: 2px;
+
+}
+
+.botao-footer{
+	color: #e7624d;
+	background: #FFF;
+	border: 0px;
+	margin-left: 365px;
+	margin-top: -20px;
+}
+
+textarea{
+	resize: none;
+	height: 97px;
+	width: 200px;
+	margin-left: 233px;
+	margin-top: 10px;
+}
