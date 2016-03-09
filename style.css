@@ -134,7 +134,7 @@ hr{
 .meio-form input{
 	width: 200px;
 	margin-top: 2px;
-
+	color: #000;
 }
 
 .botao-footer{
@@ -147,6 +147,7 @@ hr{
 
 textarea{
 	resize: none;
+	color: #000;
 	height: 97px;
 	width: 200px;
 	margin-left: 233px;
